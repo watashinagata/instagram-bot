@@ -29,8 +29,8 @@ MEDIA_SELECTOR      = 'div._9AhH0'
 NEXT_PAGER_SELECTOR = 'a.coreSpriteRightPaginationArrow'
 
 #USER INFO
-username = 'f9_sn'
-password = '19960923'
+username = 'id'
+password = 'password'
 
 #params
 tagName = 'followmeto'
