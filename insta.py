@@ -18,7 +18,7 @@ LOGIN_URL      = BASE_URL + 'accounts/login/?source=auth_switchwer'
 TAG_SEARCH_URL = BASE_URL + 'explore/tags/{}/'
 
 #selectors
-NO_LIKE_FLAG = "/html/body/div[4]/div[2]/div/article/div[2]/section[1]/span[1]/button/svg[@aria-label='いいね！'']"
+NO_LIKE_FLAG = "/html/body/div[4]/div[2]/div/article/div[]/section[1]/span[1]/button/svg[@aria-label='いいね！'']"
 
 NOTICE_BUTTON = "//button[@class='aOOlW   HoLwm ']"
 LIKE_BUTTON   = "/html/body/div[4]/div[2]/div/article/div[2]/section[1]/span[1]/button"
